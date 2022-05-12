@@ -1,3 +1,6 @@
+#COLOR GENERATOR
+![image](https://user-images.githubusercontent.com/62888962/167987997-27c2bd36-cd1a-4c89-abd0-86efe3e6a684.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
